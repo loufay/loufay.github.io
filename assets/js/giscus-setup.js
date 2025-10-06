@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "loufay/louisa-fay",
+    "data-repo": "loufay/louisa-fay.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
