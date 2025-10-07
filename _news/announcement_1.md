@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Best Oral Presentation at MICCAI Fairness of AI in Medical Imaging (FAIMI) Workshop.
+Best Oral Presentation at [MICCAI Fairness of AI in Medical Imaging (FAIMI)](https://faimi-workshop.github.io/2025-miccai-workshop/) Workshop.
