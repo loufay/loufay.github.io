@@ -2,18 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candiate. <br>
 
 profile:
   align: right
   image: lf.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -25,8 +22,9 @@ announcements:
 
 ## About Me
 
-I am a PhD candidate at the [Medical Imaging Data and Analysis Lab (MIDAS.lab)](https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/kliniken/radiologie/allgemeine-radiologie/forschung/ag-midas) at the University Hospital Tübingen and the [Institute for Signal Processing and System Theory (ISS)](https://www.iss.uni-stuttgart.de/) at the University of Stuttgart.  
-Recently, I was a visiting researcher at the [Center for Artificial Intelligence in Medicine & Imaging (AIMI)](https://aimi.stanford.edu/) at Stanford University
+I am a PhD candidate at the <a href="https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/kliniken/radiologie/allgemeine-radiologie/forschung/ag-midas">Medical Imaging Data and Analysis Lab (MIDAS.lab)</a> at the University Hospital Tübingen and the 
+<a href="https://www.iss.uni-stuttgart.de/">Institute for Signal Processing and System Theory (ISS)</a> at the University of Stuttgart. 
+Recently, I was a visiting researcher for six month at the <a href="https://aimi.stanford.edu/">Center for Artificial Intelligence in Medicine & Imaging (AIMI)</a> at Stanford University.
 
 My research focuses on developing reliable and generalizable deep learning algorithms for medical image and text analysis, with a particular interest in causality, fairness, and domain generalization in medical AI.  Besides research, I also teach the Medical Image Analysis Lab at the University of Stuttgart.
 
