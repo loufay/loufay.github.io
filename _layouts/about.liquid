@@ -48,6 +48,14 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Extra -->
+    {% if page.extra and page.extra.enabled %}
+      <h2>
+        <a href="{{ '/extra/' | relative_url }}" style="color: inherit">Extracurricular Activities</a>
+      </h2>
+      {% include extra.liquid limit=true %}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>

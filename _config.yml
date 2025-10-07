@@ -100,6 +100,10 @@ collections:
     defaults:
       layout: post
     output: true
+  extra:
+    defaults:
+      layout: post
+    output: true
   projects:
     output: true
 
@@ -142,6 +146,7 @@ exclude:
   - _pages/cv.md
   - _pages/dropdown.md
   - _pages/news.md
+  - _pages/extra.md
   - _pages/profiles.md
   - _pages/repositories.md
   - _pages/projects.md
