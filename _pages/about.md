@@ -37,7 +37,7 @@ My research focuses on developing **reliable and generalizable deep learning alg
 I hold an M.Sc. in Electrical Engineering and Information Technology from the University of Stuttgart and a B.Eng. in Electrical Engineering and Management from the University of Applied Sciences Constance. 
 
 Throughout my studies, I gained valuable <u>international experience</u>, including:  
-- Visiting Student Researcher(6-months) at **Stanford University** in USA (2024, PhD program).
+- Visiting Student Researcher (6-months) at **Stanford University** in USA (2024, PhD program).
 - Global Teaching Lab at the **Massachusetts Institute of Technology (MIT)**  in USA (2019, graduate).
 - German-Sino Joint Class at **Nanjing University of Science and Technology (NJUST)** in China  (2019, graduate).
 - Semester abroad at **Edinburgh Napier University** in Scotland, UK (2016, undergraduate).
