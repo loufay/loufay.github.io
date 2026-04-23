@@ -33,7 +33,7 @@ I am a Postdoctoral Researcher at the <a href="https://aimi.stanford.edu/">Cente
 I completed my PhD in January 2026 jointly at the <a href="https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/kliniken/radiologie/allgemeine-radiologie/forschung/ag-midas">Medical Imaging Data and Analysis Lab (MIDAS.lab)</a> at the University Hospital Tübingen and the 
 <a href="https://www.iss.uni-stuttgart.de/">Institute for Signal Processing and System Theory (ISS)</a> at the University of Stuttgart.
 
-My research focuses on developing **reliable and generalizable deep learning algorithms** for **medical image and text analysis**, with a particular interest in **causality, fairness, and domain generalization** in medical AI.  Besides research, I also teach the Medical Image Analysis Lab at the University of Stuttgart.
+My research focuses on developing **reliable and generalizable deep learning algorithms** for **medical image and text analysis**, with a particular interest in **causality, fairness, and domain generalization** in medical AI.  Besides research, I also thaught the Medical Image Analysis Lab at the University of Stuttgart.
 
 I hold an M.Sc. in Electrical Engineering and Information Technology from the University of Stuttgart and a B.Eng. in Electrical Engineering and Management from the University of Applied Sciences Constance. 
 
