@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candiate. <br>
+subtitle: Postdoctoral Researcher at Stanford University. <br>
 
 profile:
   align: right
@@ -28,15 +28,17 @@ extra:
 
 ## About Me
 
-I am a PhD candidate at the <a href="https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/kliniken/radiologie/allgemeine-radiologie/forschung/ag-midas">Medical Imaging Data and Analysis Lab (MIDAS.lab)</a> at the University Hospital Tübingen and the 
-<a href="https://www.iss.uni-stuttgart.de/">Institute for Signal Processing and System Theory (ISS)</a> at the University of Stuttgart. 
-Recently, I was a visiting researcher for six month at the <a href="https://aimi.stanford.edu/">Center for Artificial Intelligence in Medicine & Imaging (AIMI)</a> at Stanford University.
+I am a Postdoctoral Researcher at the <a href="https://aimi.stanford.edu/">Center for Artificial Intelligence in Medicine & Imaging (AIMI)</a> at Stanford University.
+
+I completed my PhD in January 2026 jointly at the <a href="https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/kliniken/radiologie/allgemeine-radiologie/forschung/ag-midas">Medical Imaging Data and Analysis Lab (MIDAS.lab)</a> at the University Hospital Tübingen and the 
+<a href="https://www.iss.uni-stuttgart.de/">Institute for Signal Processing and System Theory (ISS)</a> at the University of Stuttgart.
 
 My research focuses on developing **reliable and generalizable deep learning algorithms** for **medical image and text analysis**, with a particular interest in **causality, fairness, and domain generalization** in medical AI.  Besides research, I also teach the Medical Image Analysis Lab at the University of Stuttgart.
 
 I hold an M.Sc. in Electrical Engineering and Information Technology from the University of Stuttgart and a B.Eng. in Electrical Engineering and Management from the University of Applied Sciences Constance. 
 
 Throughout my studies, I gained valuable <u>international experience</u>, including:  
+- Postdoctoral Researcher at **Stanford University** in USA (2026–present).
 - Visiting Student Researcher (6-months) at **Stanford University** in USA (2024, PhD program).
 - Global Teaching Lab at the **Massachusetts Institute of Technology (MIT)**  in USA (2019, graduate).
 - German-Sino Joint Class at **Nanjing University of Science and Technology (NJUST)** in China  (2019, graduate).
